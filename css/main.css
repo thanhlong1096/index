@@ -1,0 +1,455 @@
+@charset "utf-8";
+/* CSS Document */
+
+.all
+{
+	width: 1920px;
+	height: 5250px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.header
+{
+	width: 1920px;
+	height: 80px;
+	background: #FFFFFF;
+}
+.menu
+{
+	width: 1150px;
+	height: 80px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.menu ul
+{
+	list-style: none;
+	
+}
+.menu li
+{
+	float: left;
+	padding: 30px 8px 50px 50px;
+}
+.menu a
+{
+	color: #020202;
+}
+.menu li:hover
+{
+	background: #FFFFFF;
+}
+.menu ul li a
+{
+	text-decoration: none;
+}
+.logo
+{
+	width: 210px;
+	height: 80px;
+	background: #FFFFFF;
+	float: left;
+}
+.banner
+{
+	width: 1920px;
+	height: 686px;
+	background: #FFFFFF;
+}
+.contener
+{
+	width: 1920px;
+	height: 4476px;
+	background: #FFFFFF;
+}
+.socngang
+{
+	width: 1187px;
+	height: 140px;
+	background: #FFFFFF;
+	margin: auto;
+}
+h1 {
+  overflow: hidden;
+  text-align: center;
+font-family:fontmenu;
+	font-size: 24px; 
+}
+
+h1:before,
+h1:after {
+  background-color: #CACACA;
+  content: "";
+  display: inline-block;
+  height: 1px;
+  position: relative;
+  vertical-align: middle;
+  width: 50%;
+}
+
+h1:before {
+  right: 0.5em;
+  margin-left: -50%;
+}
+
+h1:after {
+  left: 0.5em;
+  margin-right: -50%;
+}
+.socngang01
+{
+	width: 1187px;
+	height: 140px;
+	background:#FFFFFF ;
+	margin: auto;
+}
+.socngang02
+{
+	width: 1187px;
+	
+	background:#FFFFFF ;
+	margin: auto;
+}
+.socngang03
+{
+	width: 1187px;
+	height: 140px;
+	background:#FFFFFF ;
+	float: inherit;
+	margin: auto;
+}
+.socngang04
+{
+	width: 1187px;
+	height: 150px;
+	background:#FFFFFF ;
+	margin: auto;
+}
+.producta
+{
+	width: 1187px;
+	height: 885px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.productb
+{
+	width: 1187px;
+	height: 750px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.productb1 img
+{
+  transition:all 0.3s ease;
+}
+.productb1:hover img
+{
+    transform: rotateZ(-3deg);
+}
+.productb1
+{
+	width: 568px;
+	height: 718px;
+	background: #FFFFFF;
+	float: left;
+	margin: 10px;
+}
+.productb1a
+{
+	width: 250px;
+	height: 340px;
+	background: #FFFFFF;
+	float: left;
+	margin: 10px 10px 10px 15px;
+}
+.sp
+{
+	width: 1187px;
+	height: 432px;
+	background: #FFFFFF;
+}
+.product01
+{
+	width: 780px;
+	height: 432px;
+	background:#FFFFFF;
+	float: left;
+}
+.product01 img
+{
+  transition:all 0.3s ease;
+}
+.product01:hover img
+{
+   transform: scale(0.9);
+}
+.hinh
+{
+	width: 780px;
+	height: 338px;
+	background:#FFFFFF;
+}
+.producttext
+{
+	width: 780px;
+	height: 94px;
+	background:#FFFFFF;
+}
+.product02
+{
+	width: 374px;
+	height: 432px;
+	background: #FFFFFF;
+	float: right;
+}
+.product02a
+{
+	width: 374px;
+	height: 338px;
+	background: #FFFFFF;
+	float: right;
+}
+.product02a img
+{
+  transition:all 0.3s ease;
+}
+.product02a:hover img
+{
+   transform: scale(0.9);
+}
+.product02text
+{
+	width: 374px;
+	height: 94px;
+	background:#FFFFFF;
+	float: inherit;
+}
+
+.clear
+{
+	clear: both;
+}
+.ovuong3
+{
+	width: 1187px;
+	height: 285px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.ovuong3a
+{
+	width: 375px;
+	height: 150px;
+	background: #FFFFFF;
+	float:right;
+	margin: 60px 10px 10px 10px;
+}
+.sp2
+{
+	width: 1187px;
+	height: 454px;
+	background: #FFFFFF;
+}
+.product03
+{
+	width: 375px;
+	height: 440px;
+	background: #FFFFFF;
+	float: left;
+	margin: 10px 20px 0 0;
+}
+.product03a
+{
+	width: 350px;
+	height: 335px;
+	background:#FFFFFF;
+	float: left;
+}
+.product03a img
+{
+	transition:all 0.3s ease;
+}
+.product03a:hover img
+{
+	
+        transform: scale(0.9);
+}
+.product03b
+{
+	width: 350px;
+	height: px;
+	background:#FFFFFF;
+	float: inherit;
+}
+.shopnow
+{
+	width: 1920px;
+	height: 522px;
+	background: #FFFFFF;
+
+}
+.catherine
+{
+	width: 1187px;
+	height: 300px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.avata3
+{
+	width: 1187px;
+	height: 414px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.avata3a
+{
+	width: 374px;
+	height: 414px;
+	background: #FFFFFF;
+	float: left;
+	margin: 0 10px;
+}
+.avata3a img
+{
+  transition:all 0.3s ease;
+}
+.avata3a:hover img
+{
+  transform: scale(0.8);
+}
+.gancuoi
+{
+	width: 1187px;
+	height: 530px;
+	background: #FFFFFF;
+	margin: auto;
+}
+.gancuoia
+{
+	width: 374px;
+	height: 414px;
+	background: #FFFFFF;
+	float: left;
+	margin: 0 10px;
+}
+.gancuoia img
+{
+  transition:all 0.3s ease;
+}
+.gancuoia:hover img
+{
+  transform: scale(0.8);
+}
+.footer
+{
+	width: 1920px;
+	height: 520px;
+	background:#FFFFFF;
+	margin: auto;
+}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 19200px;
+  position: relative;
+  margin: auto;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+
+/* Caption text */
+.text {
+  color: #f2f2f2;
+  font-size: 15px;
+  padding: 8px 12px;
+  position: absolute;
+  bottom: 8px;
+  width: 100%;
+  text-align: center;
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* The dots/bullets/indicators */
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+
+
+
+
+
+
